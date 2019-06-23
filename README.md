@@ -1,2 +1,4 @@
-Projeto de interação com a plataforma Arduino e Java Web para monitorar e registrar os dados de solo e ar. Projeto feito durante 3° Período de Sistemas de Informação em Unitins.
-Colaboradores: Matheus Pimentel, Matheus Brasileiro, Francinaldo Brito, Rafael Brito, David Botelho, Heytor Victor, Rafael Guedes e Jhemys Barros.
+Projeto para automatizar a irrigação das plantas atraves da leitura dos dados do solo com o arduino e a exibição do status por meio de um grafico dinamico com AJAX utilizando java(JSF). Trabalho apresentado na Agrotins, feira agricola do estado do tocantins em 2019.
+
+![executando-programa-imagem](https://i.imgur.com/CIDzPjy.png)
+
