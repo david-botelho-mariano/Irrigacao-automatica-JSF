@@ -1,0 +1,30 @@
+Leitura:		 6
+Umidade do AR:		52.90%
+Temperatura do AR:	25.90@C
+Luminosidade:		500
+Leitura do solo:	Solo Seco
+
+Leitura:		 7
+Umidade do AR:		52.20%
+Temperatura do AR:	20.50@C
+Luminosidade:		900
+Leitura do solo:	Solo Ideal
+
+Leitura:		 8
+Umidade do AR:		51.80%
+Temperatura do AR:	28.60@C
+Luminosidade:		800
+Leitura do solo:	Solo Ideal
+
+Leitura:		 9
+Umidade do AR:		51.80%
+Temperatura do AR:	15.20@C
+Luminosidade:		700
+Leitura do solo:	Solo Encharcado
+
+Leitura:		 10
+Umidade do AR:		51.80%
+Temperatura do AR:	39.60@C
+Luminosidade:		900
+Leitura do solo:	Solo Seco
+
